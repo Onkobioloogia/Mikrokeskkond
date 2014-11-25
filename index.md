@@ -249,7 +249,7 @@ src="http://cancerres.aacrjournals.org/content/71/17/5670/F1.large.jpg">
 
 ---&twocol
 
-## Vähi ksenograftid hiires erinevad reaalsetest kasvajatest
+## Vähiraku liinide ksenograftid hiires erinevad reaalsetest kasvajatest 
 
 ***=right
 
@@ -325,6 +325,19 @@ Indutseerivad ja soosivad tuumori kasvu, angiogeneesi, põletikku ning metastaas
 - Kasvaja veresooned on heterogeense luumeniga, lekkivad ja ebakorrapärased
 
 ![jaak](assets/img/jaak.png)
+
+---
+
+## Vähi versoonte klassifikatsioon
+
+Soone tüüp |  Soone omadused | VEGF-A sõltuvus
+-----------|-----------------|----------------
+Emasoon, *mother vessel* (MV) |	Suured, õhukeseseinalised, hüperpermeabiilsed, kergelt fenestreeritud peritsüütide vaesed sinusoidid mis on pungil täis erütrotsüüte |	+
+Kapillaarid |	Moodustuvad MV-dst sisemise jagunemise teel	| −
+Glomeruloidsed mikrovaskulaarsed proliferatsioonid | Väheorganiseerunud vaskulaarsed struktuurid. Sisaldavad endoteelirakke ja peritsüüte. Minimaalse luumeni ja iseloomulikult rikkaliku mitmekihilise basaalmembraaniga |	+
+Vaskulaarsed väärmoodustised *malformations*	| MV-d mis ebasümmeetriliselt kaetud silelihasrakkudega ja/või fibroosse sidekoega. Sarnased arterio-venoossete väärmoodustistega.	|	−
+Toitja-arterid ja äravoolu veenid |	Suurenenud, väljaveninud struktuurid, moodustunud olemasolevatest arteritest ja veenidest. Väljuvad vähimassist radiaalselt, toidavad ja dreenivad vähi massis olevaid sooni. |	−
+Vaskulaarne mimikri | Verega täidetud tuumoris olevad avavused mida ümbritsevad vähirakud. |
 
 
 ---
