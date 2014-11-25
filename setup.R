@@ -5,5 +5,5 @@ library(slidifyLibraries)
 
 setwd("~/Dropbox/Onkobioloogia/Mikrokeskkond/")
 slidify('index.Rmd')
-browseURL("index.html")
+# browseURL("index.html")
 publish("Mikrokeskkond", "tpall")
