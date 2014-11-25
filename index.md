@@ -324,7 +324,12 @@ Indutseerivad ja soosivad tuumori kasvu, angiogeneesi, põletikku ning metastaas
 
 - Kasvaja veresooned on heterogeense luumeniga, lekkivad ja ebakorrapärased
 
-![jaak](assets/img/jaak.png)
+![jain](assets/img/nihms193554f1.jpg)
+
+<footer class="source">Pilt:
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859831/">Fukumura et al., 2010.
+</a>
+</footer>
 
 ---
 
@@ -337,8 +342,26 @@ Kapillaarid |	Moodustuvad MV-dst sisemise jagunemise teel	| −
 Glomeruloidsed mikrovaskulaarsed proliferatsioonid | Väheorganiseerunud vaskulaarsed struktuurid. Sisaldavad endoteelirakke ja peritsüüte. Minimaalse luumeni ja iseloomulikult rikkaliku mitmekihilise basaalmembraaniga |	+
 Vaskulaarsed väärmoodustised *malformations*	| MV-d mis ebasümmeetriliselt kaetud silelihasrakkudega ja/või fibroosse sidekoega. Sarnased arterio-venoossete väärmoodustistega.	|	−
 Toitja-arterid ja äravoolu veenid |	Suurenenud, väljaveninud struktuurid, moodustunud olemasolevatest arteritest ja veenidest. Väljuvad vähimassist radiaalselt, toidavad ja dreenivad vähi massis olevaid sooni. |	−
-Vaskulaarne mimikri | Verega täidetud tuumoris olevad avavused mida ümbritsevad vähirakud. |
+Vaskulaarne mimikri | Verega täidetud tuumoris olevad avavused mida ümbritsevad vähirakud. | -
 
+---&twocol
+
+## Vähis on vähemalt kuus eri tüüpi sooni
+
+***=left
+
+![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3278036/bin/nihms-354169-f0001.jpg)
+
+***=right
+
+<img style="width:460px" 
+src="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3278036/bin/nihms-354169-f0003.jpg">
+
+
+<footer class="source">Pilt: 
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3278036/">Nagy et al., 2010.
+</a>
+</footer>
 
 ---
 
