@@ -253,9 +253,9 @@ src="http://www.nature.com/labinvest/journal/v93/n9/images/labinvest201392f1.jpg
 
 - Normaalselt, koe kahjustuste korral diferentseeruvad fibroblastid müofibroblastideks(=CAF).
 - CAF-id võivad olla erinevat päritolu ja diferentseeruda ka 
+    - epiteelist,
     - endoteelist (endothelial-to-mesenchymal transition),
     - silelihasrakkudest,
-    - müoepiteelist või
     - mesenhümaalsetest tüvirakkudest.
 
 ***=left
@@ -271,16 +271,38 @@ src="http://www.nature.com/labinvest/journal/v93/n9/images/labinvest201392f1.jpg
 ---
 
 ## Kasvaja fibroblastid
+# Indutseerivad ja soosivad tuumori kasvu, angiogeneesi, põletikku ning metastaase
 
-Indutseerivad ja soosivad tuumori kasvu, angiogeneesi, põletikku ning metastaase
-- Sekreteerivad tervet rida pro-tumorigeenseid kasvufaktoreid, sh. HGF, FGF-e, CXCL12 ja TGF-$\beta$.
+- Sekreteerivad tervet rida pro-tumorigeenseid kasvufaktoreid, sh. HGF/SF, FGF-e, SDF-1/CXCL12 ja TGF-$\beta$.
 - **TGF-$\beta$ roll**: vähirakkudes on kas inaktiveerinud kogu TGF-$\beta$ rada või on inaktiveeritud p15 geen CDKN2B.
       - Kolorektaalvähis on TGF-$\beta$ ekspressioon nihkunud epiteeli rakkudelt strooma rakkudele ja CAF-idele. 
       - Epiteelirakud ekspresseerivad märksa vähem p-SMAD2/3 võrreldes strooma rakkudega või pre-maliigses koes olevate epiteelirakkkudega.
+- TGF-$\beta$ indutseerib **epiteliaal-mesenhümaalset transformatsiooni (EMT)**.
 
 ---
 
-## TGF-$\beta$ signalisatsioon muudab fibroblastid CAF-ideks 
+## Epiteliaal-mesenhümaalne transformatsioon (EMT)
+
+# EMT on protsess mille käigus epiteelirakud kaotavad polaarsuse, rakkudevahelised adhesioonid, omandavad amööbse liikumise ja invasiivse võime
+
+- Vähi metastaaside teke on seotud EMT-ga: kartsinoomi rakud kaotavad E-kadheriini ekspressiooni, murravad läbi basaalmembraani, sisenevad vereringesse, moodustavad distaalseid mikrometastaase ja läbivad EMT-le vastupidise protsessi MET (mesenhümaal-epiteliaalne transformatsioon).
+- EMT annab vähirakkudele resistentsuse onkogeen-indutseeritud senesentsile. 
+- EMT-ga seotud transkriptsioonifaktorid **Twist1, Twist2 ja ZEB1** kaitsevad ka inimese ja hiire fibroblaste senesentsi eest.
+
+----
+
+## Epiteliaal-mesenhümaalne transformatsioon
+
+![emt](http://www.nature.com/cr/journal/v19/n2/images/cr20095f1.jpg)
+
+<footer class="source">Pilt: TGF-bold beta-induced epithelial to mesenchymal transition
+<a href="http://www.nature.com/cr/journal/v19/n2/full/cr20095a.html">Xu et al., 2009
+</a>
+</footer>
+
+---
+
+## TGF-$\beta$ signalisatsioon muudab fibroblastid CAF-ideks
 
 ![tgfb](assets/img/onc2012536f1.jpg)
 
@@ -289,6 +311,41 @@ Indutseerivad ja soosivad tuumori kasvu, angiogeneesi, põletikku ning metastaas
 </a>
 </footer>
 
+--- &twocol
+
+## Vähk on kui haav mis ei parane
+
+***=left
+
+- Harold Dvorak avaldas 1986. aastal oma tähelepanekud, et vähikolle meenutab mitmes mõttes haava mis ei suuda paraneda artiklis "*Tumors: Wounds That Do Not Heal*" [HF Dvorak, 1986](http://www.nejm.org/doi/full/10.1056/NEJM198612253152606). 
+- Haava paranemisel eristatakse **põletikuline faas**, **proliferatiivne faas** ja **küpsemisfaas**.
+
+***=right
+
+![haav](http://www.cell.com/cms/attachment/2007952073/2030507092/gr3.jpg)
+
+<footer class="source">Pilt: cell.com
+</footer>
+
+---&twocol
+
+## Geeniekspressioon näitab haava fibroblastide ja vähi sarnasust
+
+***=left
+
+<img alt="csr" style="width:200px"
+src="assets/img/journal.pbio.0020007.g001.png">
+
+
+***=right
+
+<img alt="csr" style="width:520px"
+src="assets/img/journal.pbio.0020007.g002.png">
+
+<footer class="source">Pilt: Gene Expression Signature of Fibroblast Serum Response Predicts Human Cancer Progression: Similarities between Tumors and Wounds
+<a href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.0020007">Chang et al., 2004.
+</a>
+</footer>
 
 ---
 
