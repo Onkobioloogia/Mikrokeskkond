@@ -471,6 +471,23 @@ src="assets/img/journal.pbio.0020007.g002.png">
 
 ---
 
+## *Angiogenic switch*
+
+- Angiogeneesi käivitumine sõltub pro-ja anti-angiogeneetiliste faktorite tasakaalust.
+- Pro-angiogeneetilised faktorid on VEGF, bFGF, Ang-2, Bv8.
+- Anti-angiogeneetilised faktorid nt. maatriksi komponendid trombospondiin-1 (TSP-1), endostatiin, canstatin, tumstatin. Lahustuvad faktorid interferon-α ja -β (IFN-α and -β), angiostatin.
+
+![ang](http://ars.els-cdn.com/content/image/1-s2.0-S1044579X09000649-gr1.jpg)
+
+<footer class="source">Pilt: The angiogenic switch in carcinogenesis
+<a href="http://www.sciencedirect.com/science/article/pii/S1044579X09000649">Vanessa Baeriswyl, Gerhard Christofori, 2009.
+</a>
+</footer>
+
+
+
+---
+
 ## Vähi versoonte klassifikatsioon
 
 Soone tüüp |  Soone omadused | VEGF-A sõltuvus
