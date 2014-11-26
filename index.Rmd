@@ -382,6 +382,54 @@ src="assets/img/journal.pbio.0020007.g002.png">
 </footer>
 
 ---
+
+## Kasvaja makrofaagid
+
+![TAM](http://www.mskcc.org/sites/www.mskcc.org/files/imagecache/extra-large/node/2418/images/joyce-lab-webpage-figure-31.jpg)
+
+<footer class="source">Pilt: 
+<a href="http://www.mskcc.org/research/lab/johanna-joyce">Breast tumor-associated macrophages (TAMs).
+</a>
+</footer>
+
+---
+
+## Kasvaja makrofaagid
+
+# Koe makrofaagid on müeloidse liini rakud mis diferentseeruvad tsirkuleerivatest monotsüütidest
+
+- Makrofaagid osalevad rakulises immuunvastuses, immuunsüsteemi regulatsioonis ja haava paranemises.
+- Makrofaagid võivad diferentseeruda kahes suunas: 
+    - tüüp 1 (M1), vastusena bakteriaalse infektsioonile ja Th1 sekreteeritavale INF-$\gamma$ muutuvad aktiivselt fagotsüteerivateks rakkudeks, suunatud ka vähirakkude vastu;
+    - tüüp 2 (M2), vastusena nt. vähi poolt sekreteeritud tsütokiinidele IL-4, IL-10, IL-13 või TGF-β ja prostaglandiin E2 diferentseeruvad makrofaagid immuunosupressiivseteks jasarnaselt Th2 rakkudele hakkavad Th1-supresseerivaid tsütokiine tootma (IL-10 ja IL1$\beta$).
+
+---
+
+![tam](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3493031/bin/ajtr0004-0376-f1.jpg)
+
+<footer class="source">Pilt: 
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3493031/">Quatromoni & Eruslanov, 2012.
+</a>
+</footer>
+
+---
+
+## Makrofaagide funktsioonid vähi mikrokeskkonnas
+
+![tam2](http://ars.els-cdn.com/content/image/1-s2.0-S0304419X09000067-gr1.jpg)
+
+<footer class="source">Pilt: 
+<a href="http://www.sciencedirect.com/science/article/pii/S0304419X09000067">Coffelt et al., 2009.
+</a>
+</footer>
+
+---
+
+## Hüpoksia 
+
+![](http://site.hypoxyprobe.com/images/Hypoxia-green-in-rat-brain-tumor.jpg)
+
+---
 ## Vähi veresooned
 
 - Kasvaja angiogeneesi paradigma: tahked kasvajad ei saa areneda üle 1 mm suuruse ilma angiogeneesi initsieerimata
@@ -433,6 +481,16 @@ src="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3278036/bin/nihms-354169-f0003.
 </a>
 </footer>
 
+***=pnotes
+
+The six types of new blood vessels induced by tumors. 
+- (A) Typical mother vessel (MV). 
+- (B) MVs with intraluminal extension of cytoplasmic processes, dividing the lumen into multiple smaller spaces that will eventually split to form capillaries (arrows). 
+- (C) Typical glomeruloid microvascular proliferation stained with antibodies against CD31. 
+- (D) Vascular malformations (VM). 
+- (E) Feeder artery. 
+- (F) Vascular mimicry (Mim) and MV in a B16 melanoma.
+
 ---
 
 ## Rakuväline maatriks (ECM)
@@ -482,14 +540,5 @@ src="http://cancerres.aacrjournals.org/content/71/17/5670/F1.large.jpg">
 </a>
 </footer>
 
----
 
-## Kasvaja makrofaagid
-
-![TAM](http://www.mskcc.org/sites/www.mskcc.org/files/imagecache/extra-large/node/2418/images/joyce-lab-webpage-figure-31.jpg)
-
-<footer class="source">Pilt: 
-<a href="http://www.mskcc.org/research/lab/johanna-joyce">Breast tumor-associated macrophages (TAMs).
-</a>
-</footer>
 
