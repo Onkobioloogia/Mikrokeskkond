@@ -244,6 +244,97 @@ src="http://www.nature.com/labinvest/journal/v93/n9/images/labinvest201392f1.jpg
 </a>
 </footer>
 
+
+--- &twocol
+
+## Vähk on kui haav mis ei parane
+
+***=left
+
+- Harold Dvorak avaldas 1986. aastal oma tähelepanekud, et vähikolle meenutab mitmes mõttes haava mis ei suuda paraneda artiklis "*Tumors: Wounds That Do Not Heal*" [HF Dvorak, 1986](http://www.nejm.org/doi/full/10.1056/NEJM198612253152606). 
+- Haava paranemisel eristatakse **põletikuline faas**, **proliferatiivne faas** ja **küpsemisfaas**.
+
+***=right
+
+![haav](http://www.cell.com/cms/attachment/2007952073/2030507092/gr3.jpg)
+
+<footer class="source">Pilt: cell.com
+</footer>
+
+---&twocol
+
+## Geeniekspressioon näitab haava fibroblastide ja vähi sarnasust
+
+***=left
+
+<img alt="csr" style="width:240px"
+src="assets/img/journal.pbio.0020007.g001.png">
+
+
+***=right
+
+<img alt="csr" style="width:520px"
+src="assets/img/journal.pbio.0020007.g002.png">
+
+<footer class="source">Pilt: Gene Expression Signature of Fibroblast Serum Response Predicts Human Cancer Progression: Similarities between Tumors and Wounds
+<a href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.0020007">Chang et al., 2004.
+</a>
+</footer>
+
+---&twocol
+
+## Vähk kui haav
+# Fibriin tuumoris
+
+***=right
+
+![fib](assets/img/HIS_1629_f4.gif)
+
+
+***=left
+
+- Haavas vabanev koefaktor (*tissue factor*) käivitab vere koagulatsioonikaskaadi mille tulemusena vere plasma fibrinogeen konverteeritakse trombiini vahendusel fibriiniks ning moodustub haava sulgev klomp. 
+- Fibriin (pruun värvus) naha stroormas ümber rinnavähi naha metastaasi.
+
+<footer class="source">Pilt: 
+<a href="http://onlinelibrary.wiley.com/doi/10.1046/j.1365-2559.2003.01629.x/full">Colpaert et al., 2003.
+</a>
+</footer>
+
+---
+
+## Haavas indutseeritakse epiteeli rakkudel EMT
+
+- Haava paranemise põletikulises faasis fibriinklompi põhjustavad vereliistakud ja seejärel klompi migreeruvad makrofaagid sekreteerivad TGF-$\beta$ ja TGF-$\alpha$ kasvu faktoreid.
+- TGF-$\beta$ põhjustab haava kõrval olevate epiteelirakkude **epiteliaal-mesenhümaalse transformatsiooni** (**EMT**). 
+- Sellised EMT läbinud epiteelirakud muutuvad müofibroblastideks, migreeruvad fibriinklombi alla ja katavad dermise. Müofibroblastides ekspresseeritav silelihas aktiin põhjustab haava kokku tõmbamise.
+
+<img src="http://bme240.eng.uci.edu/students/07s/ngunn/images/day3_with_text.jpg" style="width:300px">
+
+<footer class="source">Pilt: http://bme240.eng.uci.edu.
+</footer>
+
+---
+
+## Epiteliaal-mesenhümaalne transformatsioon (EMT)
+
+# EMT on protsess mille käigus epiteelirakud kaotavad polaarsuse, rakkudevahelised adhesioonid, omandavad amööbse liikumise ja invasiivse võime
+
+- Vähi metastaaside teke on seotud EMT-ga: kartsinoomi rakud kaotavad E-kadheriini ekspressiooni, murravad läbi basaalmembraani, sisenevad vereringesse, moodustavad distaalseid mikrometastaase ja läbivad EMT-le vastupidise protsessi MET (mesenhümaal-epiteliaalne transformatsioon).
+- EMT annab vähirakkudele resistentsuse onkogeen-indutseeritud senesentsile. 
+- EMT-ga seotud transkriptsioonifaktorid **Twist1, Twist2 ja ZEB1** kaitsevad ka inimese ja hiire fibroblaste senesentsi eest.
+
+----
+
+## Epiteliaal-mesenhümaalne transformatsioon
+
+![emt](http://www.nature.com/cr/journal/v19/n2/images/cr20095f1.jpg)
+
+<footer class="source">Pilt: TGF-beta-induced epithelial to mesenchymal transition
+<a href="http://www.nature.com/cr/journal/v19/n2/full/cr20095a.html">Xu et al., 2009
+</a>
+</footer>
+
 --- &twocol
 
 ## Kasvaja fibroblastid (CAF)
@@ -281,27 +372,6 @@ src="http://www.nature.com/labinvest/journal/v93/n9/images/labinvest201392f1.jpg
 
 ---
 
-## Epiteliaal-mesenhümaalne transformatsioon (EMT)
-
-# EMT on protsess mille käigus epiteelirakud kaotavad polaarsuse, rakkudevahelised adhesioonid, omandavad amööbse liikumise ja invasiivse võime
-
-- Vähi metastaaside teke on seotud EMT-ga: kartsinoomi rakud kaotavad E-kadheriini ekspressiooni, murravad läbi basaalmembraani, sisenevad vereringesse, moodustavad distaalseid mikrometastaase ja läbivad EMT-le vastupidise protsessi MET (mesenhümaal-epiteliaalne transformatsioon).
-- EMT annab vähirakkudele resistentsuse onkogeen-indutseeritud senesentsile. 
-- EMT-ga seotud transkriptsioonifaktorid **Twist1, Twist2 ja ZEB1** kaitsevad ka inimese ja hiire fibroblaste senesentsi eest.
-
-----
-
-## Epiteliaal-mesenhümaalne transformatsioon
-
-![emt](http://www.nature.com/cr/journal/v19/n2/images/cr20095f1.jpg)
-
-<footer class="source">Pilt: TGF-bold beta-induced epithelial to mesenchymal transition
-<a href="http://www.nature.com/cr/journal/v19/n2/full/cr20095a.html">Xu et al., 2009
-</a>
-</footer>
-
----
-
 ## TGF-$\beta$ signalisatsioon muudab fibroblastid CAF-ideks
 
 ![tgfb](assets/img/onc2012536f1.jpg)
@@ -311,44 +381,7 @@ src="http://www.nature.com/labinvest/journal/v93/n9/images/labinvest201392f1.jpg
 </a>
 </footer>
 
---- &twocol
-
-## Vähk on kui haav mis ei parane
-
-***=left
-
-- Harold Dvorak avaldas 1986. aastal oma tähelepanekud, et vähikolle meenutab mitmes mõttes haava mis ei suuda paraneda artiklis "*Tumors: Wounds That Do Not Heal*" [HF Dvorak, 1986](http://www.nejm.org/doi/full/10.1056/NEJM198612253152606). 
-- Haava paranemisel eristatakse **põletikuline faas**, **proliferatiivne faas** ja **küpsemisfaas**.
-
-***=right
-
-![haav](http://www.cell.com/cms/attachment/2007952073/2030507092/gr3.jpg)
-
-<footer class="source">Pilt: cell.com
-</footer>
-
----&twocol
-
-## Geeniekspressioon näitab haava fibroblastide ja vähi sarnasust
-
-***=left
-
-<img alt="csr" style="width:200px"
-src="assets/img/journal.pbio.0020007.g001.png">
-
-
-***=right
-
-<img alt="csr" style="width:520px"
-src="assets/img/journal.pbio.0020007.g002.png">
-
-<footer class="source">Pilt: Gene Expression Signature of Fibroblast Serum Response Predicts Human Cancer Progression: Similarities between Tumors and Wounds
-<a href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.0020007">Chang et al., 2004.
-</a>
-</footer>
-
 ---
-
 ## Vähi veresooned
 
 - Kasvaja angiogeneesi paradigma: tahked kasvajad ei saa areneda üle 1 mm suuruse ilma angiogeneesi initsieerimata
