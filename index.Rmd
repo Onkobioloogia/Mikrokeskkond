@@ -73,6 +73,13 @@ background-color: #CBE7A5; /* ; ; */
 
 ## Genoomiterviklikkuse kontroll
 
+- Epiteeli struktuur minimeerib geenikahjustusi.
+    - Koes kõige seespool asub tüvirakunišš.
+    - Soole mukoosa kaitseb toksiinide/mutageenide eest.
+- Raku toksiinipumbad (P-glükovalk, Pgp)
+- Tüviraku nišš ei jagune intensiivselt.
+- Biokeemilised DNA reparatsioonimehhanismid: MMR, BER, NER.
+- Kahjustuste tolereerimismehhanismid, et vältida genoomi ebastabiilsust (*translesion DNA synthesis*).
 
 --- .segue .dark .nobackground
 
@@ -405,6 +412,9 @@ src="assets/img/journal.pbio.0020007.g002.png">
 
 ---
 
+## Makrofaagide polarisatsioon
+# Vähis polariseeruvad makrofaagid immuunsupressiivses M2 suunas
+
 ![tam](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3493031/bin/ajtr0004-0376-f1.jpg)
 
 <footer class="source">Pilt: 
@@ -426,15 +436,25 @@ src="assets/img/journal.pbio.0020007.g002.png">
 ---
 
 ## Hüpoksia 
+# Veresooned varustavad kudesid hapniku ja toitainetega
 
 ![](http://site.hypoxyprobe.com/images/Hypoxia-green-in-rat-brain-tumor.jpg)
 
----
-## Vähi veresooned
+<footer class="source">Pilt:hüpoksiline piirkond (roheline) roti ajukasvajas. Punane värv, veresooned.  www.hypoxyprobe.com
+</footer>
 
-- Kasvaja angiogeneesi paradigma: tahked kasvajad ei saa areneda üle 1 mm suuruse ilma angiogeneesi initsieerimata
-- Mitmed KMK-s esinevad kasvufaktorid ja hüpoksia indutseerivad veresoonte kasvu
-    - VEGF, bFGF, HGF, PDGF
+
+---
+## Kasvaja angiogeneesi paradigma
+# Tahked kasvajad ei saa areneda üle 1 mm suuruse ilma angiogeneesi initsieerimata
+
+
+<img src="assets/img/Folkman.jpg" style="width:55%">
+
+<footer class="source">Pilt: Veresoone poolt ülalpeetavatest vähirakkudest moodustub ring ümber soone. Väljaspool seda ringi on vähirakud suremas/surnud. Dunning roti eesnäärme kartsinoomi ksenograft.
+<a href="http://jnci.oxfordjournals.org/content/94/12/883.full.pdf+html">Lynn Hlatky, Philip Hahnfeldt, Judah Folkman, 2002.
+</a>
+</footer>
 
 ---
 
@@ -495,7 +515,7 @@ The six types of new blood vessels induced by tumors.
 
 ## Rakuväline maatriks (ECM)
 
-- vähile on iseloomulik dereguleeritud ECM-i dünaamika MMP-d, plasmin
+- vähile on iseloomulik dereguleeritud ECM-i dünaamika: MMP-d, plasmin on tugevalt üle ekspresseeritud
 - protelüütline aktiivsus pärit kasvajas resideeruvatest stroomarakkudest sh. TAM-d, CAF-d
 - erinevaid kollageene kasvajates oluliselt rohkem
 - kasvajad sellest tingituna füüsiliselt jäigemad
@@ -540,5 +560,24 @@ src="http://cancerres.aacrjournals.org/content/71/17/5670/F1.large.jpg">
 </a>
 </footer>
 
+---&twocol
+## Lingid eelmistele loengutele
 
+***=left
+
+- [Sissejuhatav loeng](http://rpubs.com/tapa741/sissejuhatus)
+- [Vähitüübid](http://rpubs.com/tapa741/vahityybid)
+- [Onkoviirused](http://tpall.github.io/Onkoviirused)
+- [Onkogeenid](http://tpall.github.io/Onkogeenid)
+- [Retseptorid](http://tpall.github.io/Retseptorid)
+- [Signaalirajad](http://tpall.github.io/Signaalirajad)
+- [Tuumorsupressorgeenid](http://tpall.github.io/Tuumorsupressorid)
+- [Rakutsüklikontroll](http://tpall.github.io/Rakutsyklikontroll)
+- [p53 ja apoptoos](http://tpall.github.io/p53-ja-apoptoos)
+
+***=right
+
+- [Immortalisatsioon](http://tpall.github.io/Immortalisatsioon)
+- [Tumorigenees](http://tpall.github.io/Tumorigenees)
+- [Genoomiterviklikkus](http://tpall.github.io/Genoomiterviklikkus)
 
