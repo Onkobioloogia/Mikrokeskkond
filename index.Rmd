@@ -488,6 +488,16 @@ src="assets/img/journal.pbio.0020007.g002.png">
 </a>
 </footer>
 
+---
+
+## VEGF ekspressioon vähis on seotud elulemusega
+
+![](http://clincancerres.aacrjournals.org/content/10/5/1706/F1.large.jpg)
+
+<footer class="source">Pilt: 
+<a href="http://clincancerres.aacrjournals.org/content/10/5/1706.long">Konecny et al.,, 2004.
+</a>
+</footer>
 
 
 ---
