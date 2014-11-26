@@ -469,13 +469,17 @@ src="assets/img/journal.pbio.0020007.g002.png">
 </a>
 </footer>
 
----
+---&twocol
 
-## *Angiogenic switch*
+## Angiogenic switch
+
+***=left
 
 - Angiogeneesi käivitumine sõltub pro-ja anti-angiogeneetiliste faktorite tasakaalust.
 - Pro-angiogeneetilised faktorid on VEGF, bFGF, Ang-2, Bv8.
 - Anti-angiogeneetilised faktorid nt. maatriksi komponendid trombospondiin-1 (TSP-1), endostatiin, canstatin, tumstatin. Lahustuvad faktorid interferon-α ja -β (IFN-α and -β), angiostatin.
+
+***=right
 
 ![ang](http://ars.els-cdn.com/content/image/1-s2.0-S1044579X09000649-gr1.jpg)
 
