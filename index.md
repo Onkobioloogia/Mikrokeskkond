@@ -490,12 +490,23 @@ src="assets/img/journal.pbio.0020007.g002.png">
 
 ---
 
+## Veresoonte arv seostub halvema elulemusega rinnavähis
+
+![](http://cancerres.aacrjournals.org/content/64/9/2941/F1.medium.gif)
+
+<footer class="source">Pilt: 
+<a href="http://cancerres.aacrjournals.org/content/64/9/2941.long">Uzzan et al., 2004.
+</a>
+</footer>
+
+---
+
 ## VEGF ekspressioon vähis on seotud elulemusega
 
 ![](http://clincancerres.aacrjournals.org/content/10/5/1706/F1.large.jpg)
 
 <footer class="source">Pilt: 
-<a href="http://clincancerres.aacrjournals.org/content/10/5/1706.long">Konecny et al.,, 2004.
+<a href="http://clincancerres.aacrjournals.org/content/10/5/1706.long">Konecny et al., 2004.
 </a>
 </footer>
 
