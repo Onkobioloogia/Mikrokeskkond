@@ -78,15 +78,25 @@ background-color: #CBE7A5; /* ; ; */
 
 ## Vähi mikrokeskkond: strooma
 
-----
+---- &twocol
 
 ## Vähi mikrokeskkond
 
 Kasvajarakud ei eksisteeri organismis isoleeritult, neid ümbritseb kompleksne keskkond, mis koosneb:
+
+***=left
+
 - normaalsetest rakkudest,
 - sekreteeritud valkudest,
 - füsioloogilistest madalmolekulaarsetest ühenditest (hormoonid),
 - veresoontest.
+
+***=right
+
+<img src="http://www.nature.com/nature/journal/v501/n7467/images/nature12626-f1.jpg" style="width:300px">
+
+<footer class="source">Pilt: Nature.com
+</footer>
 
 --- &twocol
 
@@ -124,7 +134,7 @@ PINCH/LIMS2 on ekspresseeritud kasvajate stroomas.
 ## Kasvajad sisaldavad suures mahus strooma rakke
 
 - Kõige sagedasemad vähitüübid nagu rinna, käärsoole, mao ja pankrease kartsinoomid sisaldavad kuni 90% mitte-neoplastilisi rakke.
-- Hodgkinsi lümfoomis on üksikud neoplastilised tsütokiine sekreteerivad Reed-Steinbergi rakud ümbritsetud 99% normaalsetest lümfotsüütidest.
+- Hodgkinsi lümfoomis on üksikud neoplastilised tsütokiine sekreteerivad **Reed-Steinbergi rakud** ümbritsetud 99% normaalsetest lümfotsüütidest.
 
 <img alt="reed-sternberg cell" src="http://upload.wikimedia.org/wikipedia/commons/3/33/Hodgkin_Disease,_Reed-Sternberg_Cell.jpg" style="width:300px">
 
@@ -137,8 +147,7 @@ PINCH/LIMS2 on ekspresseeritud kasvajate stroomas.
 ## Kasvaja mikrokeskonnas resideeruvad rakutüübid
 
 Lisaks neoplastilistele rakkudele leidub vähis erinevas proportsioonis normaalseid rakke:
-- T lümfotsüüdid, B lümfotsüüdid, NK ja NKT rakud, makrofaagid (TAM), müeloidset päritolu suppressor-rakud (MDSC), dendriitrakud, neutrofiilid, fibroblastid, müofibroblastid, adipotsüüdid, endoteelirakud, peritsüüdid
-lümfoid-endoteel.
+- T lümfotsüüdid, B lümfotsüüdid, NK ja NKT rakud, makrofaagid (TAM), müeloidset päritolu suppressor-rakud (MDSC), dendriitrakud, neutrofiilid, fibroblastid, müofibroblastid, adipotsüüdid, endoteelirakud, peritsüüdid, lümfoid-endoteel.
 
 ![kmk](http://www.nature.com/nm/journal/v19/n11/images/nm.3394-F1.jpg)
 
@@ -150,46 +159,11 @@ lümfoid-endoteel.
 
 ---&twocol
 
-## T lümfotsüüdid
-# Kasvajasse infiltreeruvad erinevad T-raku populatsioonid
-
-***=left
-
-- T rakud lokaliseeruvad
-    - kasvaja välispiirile,
-    - lähimasse lümfisõlme
-    - kasvaja stroomasse - tsütotoksilised T-rakud.
-
-***=right
-
-- CD3 positiivsed T-rakud soolevähi maksametastaaside piiril.
-
-<img alt="T-rakud" style="width:300px"
-src="http://cancerres.aacrjournals.org/content/71/17/5670/F1.large.jpg">
-
-<footer class="source">Pilt: 
-<a href="http://cancerres.aacrjournals.org/content/71/17/5670.full">Localization and Density of Immune Cells in the Invasive Margin of Human Colorectal Cancer Liver Metastases.
-</a>
-</footer>
-
----
-
-## Kasvaja makrofaagid
-
-![TAM](http://www.mskcc.org/sites/www.mskcc.org/files/imagecache/extra-large/node/2418/images/joyce-lab-webpage-figure-31.jpg)
-
-<footer class="source">Pilt: 
-<a href="http://www.mskcc.org/research/lab/johanna-joyce">Breast tumor-associated macrophages (TAMs).
-</a>
-</footer>
-
----&twocol
-
 ## Fibrotsüüdid, nuumrakud, silelihasrakud
 
 ***=left
 
-- Ülemiste hingamisteede kartsinoomis on erinevat tüüpi rakke: 
+- Ülemiste hingamisteede kartsinoomis (HNSCC) on erinevat tüüpi rakke: 
     - CD34+ fibrotsüüdid (inaktiivsed fibroblastid) normaalses (A) ülemiste hingamisteede stroomas ja kartsinoomi (üleval paremal) ümbritsemas (B).
     - $\alpha$-SMA+ silelihasrakud (C) ja CD117+ nuumrakud (D) vähi stroomas.
     - CD117+ nuumrakud normaalses stroomas (E) ja kartsinoomis (F).
@@ -208,8 +182,9 @@ src="http://cancerres.aacrjournals.org/content/71/17/5670/F1.large.jpg">
 ## Mis põhjustab erinevate normaalsete rakutüüpide olemasolu kasvajas
 # Kuidas saab moos kommi sisse?
 
-- Vähis olevad normaalsed rakud on jäänukid algsest koest enne tumorigeneesi algust.
-- Normaalsete rakkude viibimine kasvajas on tingitud **heterotüüpsest signalisatsioonist**.
+On välja pakutud kaks alternatiivi:
+- 1. Vähis olevad **normaalsed rakud on jäänukid algsest koest** enne tumorigeneesi algust.
+- 2. Normaalsete rakkude viibimine kasvajas on tingitud **heterotüüpsest signalisatsioonist**.
 
 ---
 
@@ -231,10 +206,11 @@ src="http://cancerres.aacrjournals.org/content/71/17/5670/F1.large.jpg">
 
 ## Kasvajarakud kontrollivad stroomat
 
-- Heterotüüpne signalisatsioon põhineb 
-    - mitogeensetel kasvufaktoritel (HGF/SF, VEGF, TGF-$\alpha$, PDGF),
-    - kasvu inhibeerivatel signaalidel (TGF-$\beta$),
-    - troofilistel faktoritel mis vahendavad eelkõige ellujäämist (*insulin-like growth factor-1/2*, IGF-1/2).
+- Heterotüüpne signalisatsiooni faktorid 
+    - mitogeensed kasvufaktorid (HGF/SF, VEGF, TGF-$\alpha$, PDGF),
+    - kemokiinid (SDF-1/CXCL12, CXCL5)
+    - kasvu inhibeerivad signaalid (TGF-$\beta$),
+    - troofilised faktorid mis vahendavad ellujäämist (*insulin-like growth factor-1/2*, IGF-1/2).
 - **Sarnaselt normaalse epiteeliga kontrollivad ka kartsinoomi rakud ümbritsevaid normaalseid kudesid indutseerides neid kasvama**.
 - Teistpidi, strooma rakud võivad signaliseerida vähirakkudele ka kasvu pidurdavalt.
 
@@ -242,10 +218,10 @@ src="http://cancerres.aacrjournals.org/content/71/17/5670/F1.large.jpg">
 
 ## Heterotüüpsed interaktsioonid mängivad rolli vähi tekkel ja arengus
 
-- Krooniliste põletike korral toimivad strooma rakud nagu makrofaagid, neutrofiilid ja lümfotsüüdid vähi teket soodustava faktorina kuna loovad pro-inflammatoorse keskkonna (sekreteerivad  TNF-$\alpha$ ja prostaglandiine).
-- Kartsinoomi rakud sekreteerivad PDGF-i, mille retseptorid on ekspresseeritud strooma rakkudel - fibroblastid, müofibroblastid ja makrofaagid. Strooma rakud sekreteerivad vastusena PDGF-ile IGF-1, mis omakorda soodustab vähirakkude kasvu ja ellujäämist.
-- Melanoomid sekreteerivad samuti PDGF-i, mis indutseerib fibroblastidel IGF-2 sekretsiooni.
-- Rinnavähi rakud sõltuvad strooma fibroblastide poolt sekreteeritud CXCL12 kemokiinist ja HGF/SF-st. 
+- **Krooniliste põletike** korral toimivad strooma rakud nagu makrofaagid, neutrofiilid ja lümfotsüüdid vähi teket soodustava faktorina kuna loovad pro-inflammatoorse keskkonna (sekreteerivad  TNF-$\alpha$ ja prostaglandiine).
+- **Kartsinoomi rakud** sekreteerivad PDGF-i, mille retseptorid on ekspresseeritud strooma rakkudel - fibroblastid, müofibroblastid ja makrofaagid. Strooma rakud sekreteerivad vastusena PDGF-ile IGF-1, mis omakorda soodustab vähirakkude kasvu ja ellujäämist.
+- **Melanoomid** sekreteerivad samuti PDGF-i, mis indutseerib fibroblastidel IGF-2 sekretsiooni.
+- **Rinnavähi** rakud sõltuvad strooma fibroblastide poolt sekreteeritud SDF-1/CXCL12 kemokiinist ja HGF/SF-st. 
 
 ---&twocol
 
@@ -253,9 +229,12 @@ src="http://cancerres.aacrjournals.org/content/71/17/5670/F1.large.jpg">
 
 ***=right
 
-Patient-derived xenograft (PDX) models of colorectal cancer recapitulate primary tumor heterogeneity. Hematoxylin and eosin (H&E) stained FFPE slides of xenografts generated by traditional HT-29 (a) or SW480 (b) colorectal cancer cell lines, vs a primary colorectal tumor, SCRX-PDX-CR101-p0 (c), and the same patient’s PDX tumor following passaging through NOD/SCID mice, SCRX-PDX-CR101-p1 (d). Note the relative uniformity of the HT-29 and SW480 tumors relative to the primary or PDX tumor following minimal passaging in immunocompromised mice.
+- Patient-derived xenograft (PDX) models of colorectal cancer recapitulate primary tumor heterogeneity.
+- Hematoxylin and eosin (H&E) stained slides of xenografts generated by traditional HT-29 (A) or SW480 (B) colorectal cancer cell lines, vs a primary colorectal tumor, SCRX-PDX-CR101-p0 (C), and the same patient’s PDX tumor following passaging through NOD/SCID mice, SCRX-PDX-CR101-p1 (D). 
 
 ***=left
+
+Note the **relative uniformity of the HT-29 (A) and SW480 (B) tumors** relative to the primary (C) or PDX tumor (D).
 
 <img alt="PDX" style="width:400px"
 src="http://www.nature.com/labinvest/journal/v93/n9/images/labinvest201392f1.jpg">
@@ -309,6 +288,7 @@ Indutseerivad ja soosivad tuumori kasvu, angiogeneesi, põletikku ning metastaas
 <a href="http://www.nature.com/onc/journal/v33/n1/full/onc2012536a.html">Hawinkels et al., 2014.
 </a>
 </footer>
+
 
 ---
 
@@ -388,6 +368,38 @@ src="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3278036/bin/nihms-354169-f0003.
 
 ![veresooned kasvavad piki FN](http://www.bloodjournal.org/content/bloodjournal/118/14/3979/F1.large.jpg?width=800&height=600)
 
+---&twocol
+
+## T lümfotsüüdid
+# Kasvajasse infiltreeruvad erinevad T-raku populatsioonid
+
+***=left
+
+- T rakud lokaliseeruvad
+    - kasvaja välispiirile,
+    - lähimasse lümfisõlme
+    - kasvaja stroomasse - tsütotoksilised T-rakud.
+
+***=right
+
+- CD3 positiivsed T-rakud soolevähi maksametastaaside piiril.
+
+<img alt="T-rakud" style="width:300px"
+src="http://cancerres.aacrjournals.org/content/71/17/5670/F1.large.jpg">
+
+<footer class="source">Pilt: 
+<a href="http://cancerres.aacrjournals.org/content/71/17/5670.full">Localization and Density of Immune Cells in the Invasive Margin of Human Colorectal Cancer Liver Metastases.
+</a>
+</footer>
+
 ---
 
-## 
+## Kasvaja makrofaagid
+
+![TAM](http://www.mskcc.org/sites/www.mskcc.org/files/imagecache/extra-large/node/2418/images/joyce-lab-webpage-figure-31.jpg)
+
+<footer class="source">Pilt: 
+<a href="http://www.mskcc.org/research/lab/johanna-joyce">Breast tumor-associated macrophages (TAMs).
+</a>
+</footer>
+
