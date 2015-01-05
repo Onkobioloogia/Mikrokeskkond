@@ -310,7 +310,7 @@ src="assets/img/journal.pbio.0020007.g002.png">
 
 ---
 
-## Haavas indutseeritakse epiteeli rakkudel EMT
+## Haavas indutseeritakse epiteelirakkudel EMT
 
 - Haava paranemise põletikulises faasis fibriinklompi põhjustavad vereliistakud ja seejärel klompi migreeruvad makrofaagid sekreteerivad TGF-$\beta$ ja TGF-$\alpha$ kasvu faktoreid.
 - TGF-$\beta$ põhjustab haava kõrval olevate epiteelirakkude **epiteliaal-mesenhümaalse transformatsiooni** (**EMT**). 
@@ -374,7 +374,7 @@ src="assets/img/journal.pbio.0020007.g002.png">
 - Sekreteerivad tervet rida pro-tumorigeenseid kasvufaktoreid, sh. HGF/SF, FGF-e, SDF-1/CXCL12 ja TGF-$\beta$.
 - **TGF-$\beta$ roll**: vähirakkudes on kas inaktiveerinud kogu TGF-$\beta$ rada või on inaktiveeritud p15 geen CDKN2B.
       - Kolorektaalvähis on TGF-$\beta$ ekspressioon nihkunud epiteeli rakkudelt strooma rakkudele ja CAF-idele. 
-      - Epiteelirakud ekspresseerivad märksa vähem p-SMAD2/3 võrreldes strooma rakkudega või pre-maliigses koes olevate epiteelirakkkudega.
+      - Epiteelirakud ekspresseerivad märksa vähem p-SMAD2/3 võrreldes strooma rakkudega või pre-maliigses koes olevate epiteelirakkudega.
 - TGF-$\beta$ indutseerib **epiteliaal-mesenhümaalset transformatsiooni (EMT)**.
 
 ---
