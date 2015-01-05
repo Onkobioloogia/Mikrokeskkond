@@ -213,7 +213,7 @@ On välja pakutud kaks alternatiivi:
 
 ## Kasvajarakud kontrollivad stroomat
 
-- Heterotüüpne signalisatsiooni faktorid 
+- Heterotüüpse signalisatsiooni faktorid 
     - mitogeensed kasvufaktorid (HGF/SF, VEGF, TGF-$\alpha$, PDGF),
     - kemokiinid (SDF-1/CXCL12, CXCL5)
     - kasvu inhibeerivad signaalid (TGF-$\beta$),
