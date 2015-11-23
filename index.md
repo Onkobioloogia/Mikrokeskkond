@@ -273,8 +273,19 @@ src="http://www.nature.com/labinvest/journal/v93/n9/images/labinvest201392f1.jpg
 <footer class="source">Pilt: cell.com
 </footer>
 
----&twocol
+---
+## Haava paranemine
 
+
+![wound](http://www.sciencemag.org/content/346/6212/941/F1.large.jpg)
+
+
+
+<footer class="source">Stages of wound healing.
+Wound healing is classically divided into four stages: (A) hemostasis, (B) inflammation, (C) proliferation, and (D) remodeling. Each stage is characterized by key molecular and cellular events and is coordinated by a host of secreted factors that are recognized and released by the cells of the wounding response. A representative subset of major factors are depicted. PDGF, platelet-derived growth factor; TGF, transforming growth factor; FGFs, fibroblast growth factors; IL-1, interleukin-1; TNF, tumor necrosis factor; KGF, keratinocyte growth factor; IGF, insulin-like growth factor; IFN, interferon; VEGF, vascular endothelial growth factor; HGF, hepatocyte growth factor; MMP, matrix metalloproteinase; TIMP, tissue inhibitor of metalloproteinase. [Advances in skin grafting and treatment of cutaneous wounds](http://www.sciencemag.org/content/346/6212/941.full)
+</footer>
+
+---&twocol
 ## Geeniekspressioon näitab haava fibroblastide ja vähi sarnasust
 
 ***=left
