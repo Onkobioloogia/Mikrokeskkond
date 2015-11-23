@@ -112,6 +112,7 @@ Kasvajarakud ei eksisteeri organismis isoleeritult, neid ümbritseb kompleksne k
 ***=left
 
 ![Gupta, 2003. High-magnification photomicrograph of a high-grade ductal carcinoma. Note the diffuse uniform membranous E.cadherin staining (arrows) of the tumor cells.](assets/img/gupta2003.jpg)
+E-kadheriini antikehaga värvitud rinnavähi koelõigud. E-kadheriini ekspresseerivaid vähirakke ümbritseb rohkelt stroomarakke.  
 
 ***=right
 
