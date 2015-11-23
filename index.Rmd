@@ -112,11 +112,15 @@ Kasvajarakud ei eksisteeri organismis isoleeritult, neid ümbritseb kompleksne k
 ***=left
 
 ![Gupta, 2003. High-magnification photomicrograph of a high-grade ductal carcinoma. Note the diffuse uniform membranous E.cadherin staining (arrows) of the tumor cells.](assets/img/gupta2003.jpg)
-E-kadheriini antikehaga värvitud rinnavähi koelõigud. E-kadheriini ekspresseerivaid vähirakke ümbritseb rohkelt stroomarakke.  
+
+- Vasemal: E-kadheriini antikehaga värvitud rinnavähi koelõigud. E-kadheriini ekspresseerivaid vähirakke ümbritseb rohkelt stroomarakke.  
+- Parem: anti-PINCH-positiivne tuumoriga assotseerunud strooma (TAS)
+
 
 ***=right
 
 ![Wang-Rodriguez, 2002. PINCH protein is present in normal stroma in low abundance but is up-regulated in the stroma associated with common carcinomas.](assets/img/pinch.jpg)
+
 
 
 <footer class="source">Pildid: 
